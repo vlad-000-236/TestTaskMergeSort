@@ -12,3 +12,5 @@ java -jar C:\указываем\путь\до\файла\MergeSort.jar
 
 Пример: 
 -i -d C:\Users\outFile.txt C:\Users\TestFile1.txt C:\Users\TestFile2.txt
+
+В качестве среды разработки использовался Apache NetBeans 15. В проекте использовалась система сборки Mаven 4.0.0.
